@@ -1,0 +1,16 @@
+$ git status
+On branch main
+Your branch is behind 'origin/main' by 2 commits, and can be fast-forwarded.
+  (use "git pull" to update your local branch)
+
+Changes to be committed:
+  (use "git restore --staged <file>..." to unstage)
+        new file:   exercise-6/file.txt
+        new file:   exercise-6/status.ext
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+        exercise-2/index.html
+        exercise-6/index.html
+
+
