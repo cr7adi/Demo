@@ -1,2 +1,5 @@
-this is new file
-added another line
+#git commands
+
+git stash save "added new line to file.txt"
+git stash list
+git stash pop 1
