@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Exercise</title>
+</head>
+<body>
+
+<h1>Commit-1</h1>
+<p>Created a new file</p>
+<<<<<<< HEAD
+<p>changed in master branch</p>
+=======
+<p>added new line<p>
+>>>>>>> noob
+</body>
+</html>
