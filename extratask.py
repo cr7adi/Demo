@@ -33,8 +33,8 @@ while(count<9):
         n= int(input("enter number b/w 1-50:"))
     count+=1
 print(even_list,odd_list,max(sum(even_list),sum(odd_list)))   
-#occurence = input("enter string:")
-occurence = "12abcbacbaba344ab"
+occurence = input("enter string:")
+#occurence = "12abcbacbaba344ab"
 alpha =[i for i in occurence if i.isalpha()]
 occurence = [[i,alpha.count(i)] for i in set(alpha)]
 print(occurence)
