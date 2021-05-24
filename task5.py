@@ -2,7 +2,7 @@ import sys
 
 #1
 
-'''
+
 try:
     eval("x=2")
 except SyntaxError:
@@ -37,7 +37,7 @@ while count< 3:
         print("welcome")
         break
     count+=1
-'''
+
 #6
 with open('doc.txt') as f:
     mylist = f.read().splitlines() 
