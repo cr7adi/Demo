@@ -1,1 +1,1 @@
-# Demo
+# Python Training Assignments
